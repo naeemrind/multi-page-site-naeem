@@ -18,14 +18,3 @@ The website consists of the following pages:
 * Gallery (`gallery.html`)
 * Contact (`contact.html`)
 
-## Technologies Used
-
-* HTML5
-* CSS3
-
-## Live Demo
-
-The project is deployed using GitHub Pages and can be viewed live at:
-[https://naeemrind.github.io/multi-page-site-naeem/index.html)
-
-
