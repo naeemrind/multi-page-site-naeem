@@ -3,7 +3,6 @@
 ## Author
 
 * **Name:** Naeem
-* **GitHub:** [naeemind](https://github.com/naeemind)
 
 ## Project Description
 
@@ -29,8 +28,4 @@ The website consists of the following pages:
 The project is deployed using GitHub Pages and can be viewed live at:
 [https://naeemind.github.io/multi-page-site-naeem/](https://naeemind.github.io/multi-page-site-naeem/)
 
-*(Note: Please double-check this link is correct and the deployment is active)*
 
-## Purpose
-
-This project serves as a demonstration of basic front-end web development skills acquired during the course.
