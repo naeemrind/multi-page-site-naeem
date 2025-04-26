@@ -26,6 +26,6 @@ The website consists of the following pages:
 ## Live Demo
 
 The project is deployed using GitHub Pages and can be viewed live at:
-[https://naeemind.github.io/multi-page-site-naeem/](https://naeemind.github.io/multi-page-site-naeem/)
+[https://naeemrind.github.io/multi-page-site-naeem/index.html)
 
 
